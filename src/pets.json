@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "images/boxer.jpeg",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Campina Grande"
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "picture": "images/dog1.jpg",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Campina Grande"
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/dog3.png",
+    "age": 2,
+    "breed": "French Bulldog",
+    "location": "Campina Grande"
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "picture": "images/dog4.jpg",
+    "age": 2,
+    "breed": "Boxer",
+    "location": "Campina Grande"
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "picture": "images/dog5.jpg",
+    "age": 2,
+    "breed": "French Bulldog",
+    "location": "Campina Grande"
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "picture": "images/dog6.jpg",
+    "age": 3,
+    "breed": "French Bulldog",
+    "location": "Campina Grande"
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "picture": "images/dog7.jpg",
+    "age": 3,
+    "breed": "Golden Retriever",
+    "location": "Campina Grande"
+  },
+  {
+    "id": 7,
+    "name": "Coleman",
+    "picture": "images/dog8.jpg",
+    "age": 3,
+    "breed": "Golden Retriever",
+    "location": "Campina Grande"
+  },
+  {
+    "id": 8,
+    "name": "Nichole",
+    "picture": "images/dog9.jpg",
+    "age": 2,
+    "breed": "French Bulldog",
+    "location": "Campina Grande"
+  },
+  {
+    "id": 9,
+    "name": "Fran",
+    "picture": "images/dog10.jpg",
+    "age": 3,
+    "breed": "Boxer",
+    "location": "Campina Grande"
+  },
+  {
+    "id": 10,
+    "name": "Leonor",
+    "picture": "images/scottish-terrier.jpeg",
+    "age": 2,
+    "breed": "Boxer",
+    "location": "Campina Grande"
+  },
+  {
+    "id": 11,
+    "name": "Dean",
+    "picture": "images/scottish-terrier.jpeg",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Campina Grande"
+  },
+  {
+    "id": 12,
+    "name": "Stevenson",
+    "picture": "images/french-bulldog.jpeg",
+    "age": 3,
+    "breed": "French Bulldog",
+    "location": "Campina Grande"
+  },
+  {
+    "id": 13,
+    "name": "Kristina",
+    "picture": "images/golden-retriever.jpeg",
+    "age": 4,
+    "breed": "Golden Retriever",
+    "location": "Campina Grande"
+  },
+  {
+    "id": 14,
+    "name": "Ethel",
+    "picture": "images/golden-retriever.jpeg",
+    "age": 2,
+    "breed": "Golden Retriever",
+    "location": "Campina Grande"
+  },
+  {
+    "id": 15,
+    "name": "Terry",
+    "picture": "images/golden-retriever.jpeg",
+    "age": 2,
+    "breed": "Golden Retriever",
+    "location": "Campina Grande"
+  }
+]
